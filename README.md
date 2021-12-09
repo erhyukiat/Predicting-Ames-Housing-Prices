@@ -32,7 +32,7 @@ Model Scores
 
 Conclusion & Recommendation
 ---
-The model we trained is able to predict the sale price of houses within \\$18,769.72. The model does well in predicting sale prices between \\$75,000 and \$300,000. If there is a need to predict prices outside of that range, the model will need to be improved by either providing more training data with prices outside of the range or implementing other models/modelling techniques.
+The model we trained is able to predict the sale price of houses within \$18,769.72. The model does well in predicting sale prices between \$75,000 and \$300,000. If there is a need to predict prices outside of that range, the model will need to be improved by either providing more training data with prices outside of the range or implementing other models/modelling techniques.
 
 Based on the selected model, we are able to find out the 5 features that positively affects the sale price the most and the 5 features that negatively affects the sale price the most based on the coefficients of the model. The interpretation of the coefficient is as follows: 
 
